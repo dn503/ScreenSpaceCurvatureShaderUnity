@@ -36,7 +36,12 @@ In the Post-Processing Layer component, click on the Layer dropdown and select P
 
 You should now be able to see the effect in the scene and game window.
 
-# Original Links
+## Screenshots
+
+![Dragon_No_Shader](../3e9814b544eb941f51a331e6999c82ee5d958c95/dragon_no_shader.jpg?raw=true)
+![Dragon](../3e9814b544eb941f51a331e6999c82ee5d958c95/dragon.jpg?raw=true)
+
+## Original Links
 https://forum.babylonjs.com/t/cavity-shader-effect-like-blender-2-8-viewport-for-babylon-js/11789/18
 
 https://github.com/sebavan/Babylon.js/blob/e060c39912d0741e508e08803845db042f439c79/src/Shaders/screenSpaceCurvature.fragment.fx

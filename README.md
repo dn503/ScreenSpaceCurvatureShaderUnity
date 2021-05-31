@@ -34,6 +34,8 @@ Select the PostProcessingGO again, and at the top of the Inspector, set its Laye
 Select the Main Camera in the Hierarchy, and in the Inspector add a Post-Processing Layer.
 In the Post-Processing Layer component, click on the Layer dropdown and select PostProcessing.
 
+Don't forget to copy the Shader & script file to your Unity project.
+
 You should now be able to see the effect in the scene and game window.
 
 ## Screenshots
